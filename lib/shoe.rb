@@ -7,6 +7,6 @@ class Shoe
   attr_reader :brand
   
   def cobble
-    puts ""
+    self.condition = 
   end
 end
