@@ -7,6 +7,6 @@ class Shoe
   attr_reader :brand
   
   def cobble
-    self.condition = 
+    self.condition = "new"
   end
 end
